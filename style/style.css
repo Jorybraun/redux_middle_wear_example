@@ -1,0 +1,10 @@
+.user-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 0 300px;
+  margin: 12px;
+}
